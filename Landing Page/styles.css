@@ -1,0 +1,147 @@
+#logo-header{
+    
+    position: absolute;
+    top: 4.39%;
+    left: 4.82%;
+
+}
+
+
+
+.hero-page-container {
+    width: 1440px;
+    height:1024px;
+    background: #131316;
+    position: relative;
+
+}
+
+
+
+.hero-page-bracket-container {
+    
+    position: absolute;
+    top: 27.5%;
+    left: 10.8%;
+    right: 10.8%;
+
+
+    
+    width: 78.3%;
+    height: 51.85%;
+    margin-top: 0px;
+    padding-top: 0px; 
+
+}
+
+
+.hero-page-bracket-container h1 {
+
+    font-family: Roboto-Regular_SemiBold;
+    width: 88%;
+    height: 44%;
+    text-align: center;
+    font-size: 100px;
+    color: #F3F5F6;
+    letter-spacing: 0;
+   
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    
+    position: absolute;
+    top: 5.83%;
+    left: 6.74%;
+    
+  
+    
+}
+
+.hero-page-bracket-container h2 {
+ 
+    font-family: Roboto-Regular;
+    font-size: 36px;
+    color: #F3F5F6;
+    letter-spacing: 0;
+    text-align: center;
+
+    width: 72%;
+    height: 16.7%;
+
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    position: absolute;
+    top: 56.87%;
+    left: 13.91%;
+
+
+
+}
+
+
+.hero-page-bracket-container button {
+    background: #5F3BB3;
+    border-radius: 5px;
+    width: 256px;
+    height: 65px;
+    font-family: Roboto-Regular_SemiBold;
+    font-size: 22px;
+    color: #F3F5F6;
+    letter-spacing: 0;
+    padding: 0;
+    border: none;
+
+    width: 22.6%;
+    height: 12.24%;
+
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    position: absolute;
+    top: 80.6%;
+    left: 24.73%;
+
+
+
+}
+
+
+
+.hero-page-bracket-container img {
+    
+    position: absolute;
+    top: 80.6%;
+    left: 51.95%;
+
+}
+
+
+.hero-page-bracket-container h3 {
+ 
+    font-family: Roboto-Regular_Bold;
+    font-size: 30px;
+    color: #F3F5F6;
+    letter-spacing: 0;
+
+    /* width: 17.7%;
+    height: 6.59%; */
+
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 0px;
+
+    position: absolute;
+    top: 82.1%;
+    left: 57.45%;
+
+ 
+
+}
+
+.purple {
+    background-color: #5F3BB3;
+}
+
