@@ -1,3 +1,4 @@
+
 #logo-header{
     
     position: absolute;
@@ -6,8 +7,6 @@
 
 }
 
-
-
 .hero-page-container {
     width: 1440px;
     height:1024px;
@@ -15,8 +14,6 @@
     position: relative;
 
 }
-
-
 
 .hero-page-bracket-container {
     
@@ -33,7 +30,6 @@
     padding-top: 0px; 
 
 }
-
 
 .hero-page-bracket-container h1 {
 
@@ -52,7 +48,6 @@
     position: absolute;
     top: 5.83%;
     left: 6.74%;
-    
   
     
 }
@@ -76,10 +71,7 @@
     top: 56.87%;
     left: 13.91%;
 
-
-
 }
-
 
 .hero-page-bracket-container button {
     background: #5F3BB3;
@@ -104,10 +96,7 @@
     top: 80.6%;
     left: 24.73%;
 
-
-
 }
-
 
 
 .hero-page-bracket-container img {
@@ -126,9 +115,6 @@
     color: #F3F5F6;
     letter-spacing: 0;
 
-    /* width: 17.7%;
-    height: 6.59%; */
-
     display: inline-block;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -137,7 +123,6 @@
     top: 82.1%;
     left: 57.45%;
 
- 
 
 }
 
